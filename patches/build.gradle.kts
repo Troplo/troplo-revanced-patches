@@ -1,13 +1,13 @@
-group = "app.revanced"
+group = "com.troplo.revanced"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
-        website = "https://revanced.app"
+        name = "Troplo ReVanced Patches"
+        description = "Troplo ReVanced Patches"
+        source = "git@github.com:Troplo/troplo-revanced-patches.git"
+        author = "Troplo"
+        contact = "troplo@troplo.com"
+        website = "https://troplo.com"
         license = "GNU General Public License v3.0"
     }
 }
